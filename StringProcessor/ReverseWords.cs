@@ -39,9 +39,6 @@
         /// <returns>
         /// The <see cref="string"/>.
         /// </returns>
-        public override string ToString()
-        {
-            return "Reverse the Words";
-        }
+        public override string ToString() => "Reverse the Words";
     }
 }

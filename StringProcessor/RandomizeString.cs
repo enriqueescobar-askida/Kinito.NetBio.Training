@@ -42,9 +42,6 @@
         /// <returns>
         /// The <see cref="string"/>.
         /// </returns>
-        public override string ToString()
-        {
-            return "Scramble the String";
-        }
+        public override string ToString() => "Scramble the String";
     }
 }
