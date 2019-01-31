@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{D2AB8525-DABF-44EC-8B0A-27030D4FE084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringProcessor", "StringProcessor\StringProcessor.csproj", "{45677CDE-4510-45BC-875B-75CE5E5EBFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGuiApp", "WpfGuiApp\WpfGuiApp.csproj", "{D63C9699-041E-48C2-A061-3CA63346A885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppThree", "WindowsFormsAppThree\WindowsFormsAppThree.csproj", "{0D722C82-699F-44CC-8934-46B6D233B49A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F5EB7AE0-7583-476F-B2AC-C9F4975E3EC5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceLoader", "SequenceLoader\SequenceLoader.csproj", "{BC7008C3-4439-4D8E-A94C-31D99F343AC0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://codecademy.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Lab1\\Lab1.csproj
+		SccProjectName1 = Lab1
+		SccLocalPath1 = Lab1
+		SccProjectUniqueName2 = StringProcessor\\StringProcessor.csproj
+		SccProjectName2 = StringProcessor
+		SccLocalPath2 = StringProcessor
+		SccProjectUniqueName3 = WpfGuiApp\\WpfGuiApp.csproj
+		SccProjectName3 = WpfGuiApp
+		SccLocalPath3 = WpfGuiApp
+		SccProjectUniqueName4 = WindowsFormsAppThree\\WindowsFormsAppThree.csproj
+		SccProjectName4 = WindowsFormsAppThree
+		SccLocalPath4 = WindowsFormsAppThree
+		SccProjectUniqueName5 = SequenceLoader\\SequenceLoader.csproj
+		SccProjectName5 = SequenceLoader
+		SccLocalPath5 = SequenceLoader
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AB8525-DABF-44EC-8B0A-27030D4FE084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AB8525-DABF-44EC-8B0A-27030D4FE084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AB8525-DABF-44EC-8B0A-27030D4FE084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AB8525-DABF-44EC-8B0A-27030D4FE084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45677CDE-4510-45BC-875B-75CE5E5EBFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45677CDE-4510-45BC-875B-75CE5E5EBFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45677CDE-4510-45BC-875B-75CE5E5EBFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45677CDE-4510-45BC-875B-75CE5E5EBFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63C9699-041E-48C2-A061-3CA63346A885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63C9699-041E-48C2-A061-3CA63346A885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63C9699-041E-48C2-A061-3CA63346A885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63C9699-041E-48C2-A061-3CA63346A885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D722C82-699F-44CC-8934-46B6D233B49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D722C82-699F-44CC-8934-46B6D233B49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D722C82-699F-44CC-8934-46B6D233B49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D722C82-699F-44CC-8934-46B6D233B49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7008C3-4439-4D8E-A94C-31D99F343AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7008C3-4439-4D8E-A94C-31D99F343AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7008C3-4439-4D8E-A94C-31D99F343AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7008C3-4439-4D8E-A94C-31D99F343AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
